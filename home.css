@@ -9,8 +9,7 @@ header {
 
 .container-sect {
     text-align: left;
-    width: 40vw;
-    box-shadow: 20px;
+    width: 50vw;
     border-width: 2px;
     border: gray;
     border-style: ridge;
@@ -18,13 +17,21 @@ header {
     padding: 2px;
     margin-left: 5px;
     margin: auto;
-    margin-top: 200px;
+    margin-top: 100px;
+    font-size: 18px;
 }
 
 .container {
     margin: auto;
     font-family: 'Roboto', sans-serif;
     width: 50vw;
+    font-size: 18px;
+    border: gray;
+    border-width: 2px;
+    border-style: ridge;
+    padding: 5px;
+    border-radius: 5px;
+
 }
 
 h2 {
