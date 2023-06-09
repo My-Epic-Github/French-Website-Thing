@@ -2,6 +2,9 @@
 
 header {
     text-align: center;
+    text-decoration: underline;
+    font-family: 'Roboto', sans-serif;
+    font-size: 32px;
 }
 
 .container-sect {
@@ -14,6 +17,14 @@ header {
     border-radius: 5px;
     padding: 2px;
     margin-left: 5px;
+    margin: auto;
+    margin-top: 200px;
+}
+
+.container {
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
+    width: 50vw;
 }
 
 h2 {
