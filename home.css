@@ -21,6 +21,20 @@ header {
     font-size: 18px;
 }
 
+.footer {
+    background-color: #333;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    position: absolute;
+    bottom: 10px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
 .container {
     margin: auto;
     font-family: 'Roboto', sans-serif;
